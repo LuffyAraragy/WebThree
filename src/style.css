@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.color-block {
+    margin: 0 auto;
+    width: 500px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+}
+
+.button {
+    padding: 20px;
+    border-radius: 25px;
+    border: none;
+}
+
+.button--yellow {
+    background-color: yellow;
+}
+
+.button--green {
+    background-color: green;
+}
+
+.button--red {
+    background-color: red;
+}
